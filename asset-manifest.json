@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/line-revup-2022-liff-line-bot-handson/static/css/main.8cdb21b7.css",
+    "main.js": "/line-revup-2022-liff-line-bot-handson/static/js/main.f9630f1a.js",
+    "index.html": "/line-revup-2022-liff-line-bot-handson/index.html",
+    "main.8cdb21b7.css.map": "/line-revup-2022-liff-line-bot-handson/static/css/main.8cdb21b7.css.map",
+    "main.f9630f1a.js.map": "/line-revup-2022-liff-line-bot-handson/static/js/main.f9630f1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cdb21b7.css",
+    "static/js/main.f9630f1a.js"
+  ]
+}
